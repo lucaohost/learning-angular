@@ -1,4 +1,4 @@
-# leaning-angular
+# learning-angular
 1- 
 instala o node, depois dá npm install, depois o angular cli. vai em um diretório dá um git clone (faz o rolê da chave ssh antes, ssh -keygen, cata na pasta onde salvou, copia a pública e adiciona lá no git em setting). Dá um ng new primeiro-projeto, dá um cd pra entrar nele e depois dá um ng server, pra hostear um server ali. Vai ficar na porta 4200, então pra acessar localhost/4200.
 
