@@ -5,5 +5,9 @@ instala o node, depois dá npm install, depois o angular cli. vai em um diretór
 2-
 pra criar componente na mão, tem que criar uma pasta, que vai ter um arquivo ts. decora ele com component em cima, botando o select e o template. lembrar importar component. Adiciona ele no app.module.ts. já pode sair usando no app.component.html. pra criar automaticamente e ja fazer esses roles ali de cima -> ng new c meu-segundo-component
 
+3-
+tsc main.ts
 
+4-
+npm install tslint
 
