@@ -14,3 +14,6 @@ npm install tslint?
 5- 
 function .map? ecmascript?
 
+6-
+programação  funcinal
+

@@ -14,3 +14,6 @@ var numero = [1,2,3];
 numero.map(function(valor){
     return valor *2;
 });
+
+// ES 2015
+numero.map(valor => valor * 2);
