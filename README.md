@@ -9,5 +9,8 @@ pra criar componente na mão, tem que criar uma pasta, que vai ter um arquivo ts
 tsc main.ts
 
 4-
-npm install tslint
+npm install tslint?
+
+5- 
+function .map? ecmascript?
 
