@@ -17,3 +17,9 @@ function .map? ecmascript?
 6-
 programação  funcinal
 
+babeljs.io pra fazer os transpile
+
+tipando variável
+var n : string
+var n : any ou var n
+
