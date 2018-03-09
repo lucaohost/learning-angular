@@ -23,3 +23,31 @@ tipando variável
 var n : string
 var n : any ou var n
 
+nomenclatura app.module.ts
+
+decorator em cima
+
+import { BrowserModule } from '@angular/platform-browser'; modulo que prepara pra rodar em brownser
+
+import { NgModule } from '@angular/core'; modulo que se usa pra tow way data binding
+
+decorator sao os metadados
+    declarations do decorator
+    bota diretivas, componentes e pipes
+
+    import do decorator
+    coloca outros modulos
+
+    providers = coloca serviços q vão servir pra todos os componentes (verificações e autenticações e guardas de rota pq tem escopo global da aplicação)
+
+    bootstrap: coloca o container e vai modificando ele, na mes
+    -ma página
+
+    import { HttpModule } from '@angular/http' precisa pras requisições ajax
+
+    ng g m
+    ng g c
+
+14:52 video 5
+
+
