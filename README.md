@@ -48,6 +48,31 @@ decorator sao os metadados
     ng g m
     ng g c
 
-14:52 video 5
+feature module
+
+todos os modulos vão ser importados no app module, pq ele
+é o "backend" do component html principal, que só existirá ele
+
+o app module via importar o brownser module, pq é só nele q terá as requisições ajax, os outros modules não importarão o app module e serão comomModules
+
+imports
+    modules importados naquele module
+
+declarations
+    components que pertencem aquele module
+
+export
+    quais declarations ficarao visiveis para modules q importarem ele
+
+ctrl shift k
+
+alt setas pra cima e pra baixo
+
+alt shift pra cima e pra baixo
+
+
+
+
+
 
 
