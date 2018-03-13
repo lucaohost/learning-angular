@@ -77,6 +77,9 @@ template:`
 `
 vale até 3 linhas, se n cria outro html (BOA PRATICA)
 
+injeta serviço tu coloca no construtor, tipo recebendo como paramatro, dai ele declara como atributo próprio
+
+tem que importar a classe service no modulo e no componente, além disso no module tem q colocar como provider: [] pq é o fornecedor de serviço 
 
 
 
