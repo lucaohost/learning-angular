@@ -70,6 +70,13 @@ alt setas pra cima e pra baixo
 
 alt shift pra cima e pra baixo
 
+template literal ou inline 
+
+template:` 
+    <p>asdasd</p>
+`
+vale até 3 linhas, se n cria outro html (BOA PRATICA)
+
 
 
 
