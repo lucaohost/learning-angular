@@ -81,6 +81,7 @@ injeta serviço tu coloca no construtor, tipo recebendo como paramatro, dai ele 
 
 tem que importar a classe service no modulo e no componente, além disso no module tem q colocar como provider: [] pq é o fornecedor de serviço 
 
+div.highligh+tab
 
 
 

@@ -15,5 +15,5 @@ numero.map(function(valor){
     return valor *2;
 });
 
-// ES 2015
+//ES 2015
 numero.map(valor => valor * 2);
