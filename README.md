@@ -83,6 +83,16 @@ tem que importar a classe service no modulo e no componente, além disso no modu
 
 div.highligh+tab
 
+data binding
+    mandar dados do componente pro view e vice verda
+    4 formas
+        interpolação {{variavel}}
+        property biding
+        da view pro componente
+        two way data binding
+            atualiza view e componente simultaneamente
+
+
 
 
 
